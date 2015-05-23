@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_margin="8dp"
+        android:src="@drawable/brad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/profile_pic"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_marginTop="9dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:id="@+id/person_name"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:layout_toEndOf="@+id/profile_pic"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="#ff231eff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="DOB"
+        android:id="@+id/person_dob"
+        android:layout_below="@+id/person_name"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:layout_toEndOf="@+id/profile_pic"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="#ffff8e26" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Country"
+        android:id="@+id/person_country"
+        android:layout_below="@+id/person_dob"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:layout_toEndOf="@+id/profile_pic"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="#ffff8e26" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Height"
+        android:id="@+id/person_height"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:layout_toEndOf="@+id/profile_pic"
+        android:layout_below="@+id/person_country"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="#ffff8e26"
+        android:layout_alignBaseline="@id/profile_pic"/>
+
+
+
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_marginLeft="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Descriptoin"
+        android:singleLine="true"
+        android:textColor="@android:color/black"
+        android:id="@+id/person_description"
+        android:layout_below="@+id/profile_pic"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="3dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Spouse"
+        android:id="@+id/person_spouse"
+        android:layout_below="@+id/person_description"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/person_description"
+        android:layout_alignEnd="@+id/person_description"
+        android:layout_marginLeft="5dp"
+        android:textColor="#ff2c81ff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Children"
+        android:id="@+id/person_children"
+        android:textColor="#ff2c81ff"
+        android:layout_below="@+id/person_spouse"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/person_spouse"
+        android:layout_alignEnd="@+id/person_spouse"
+        android:layout_marginLeft="5dp" />
+
+  <!--  <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Pic_url"
+        android:id="@+id/picurl"
+        android:layout_below="@+id/person_children"
+        android:layout_alignLeft="@+id/person_children"
+        android:layout_alignStart="@+id/person_children"
+        android:layout_alignRight="@+id/person_children"
+        android:layout_alignEnd="@+id/person_children"
+        android:layout_marginTop="5dp" />-->
+
+</RelativeLayout>

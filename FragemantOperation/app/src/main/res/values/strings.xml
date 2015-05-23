@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragemantOperation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="person">
+        <item>Name</item>
+        <item>Image</item>
+        <item>Phone Number</item>
+        <item>Description</item>
+        <item>Email</item>
+    </string-array>
+
+    <string name="person_name">Mradul Kumar</string>
+    <string name="person_no">00112244</string>
+    <string name="person_desc">yo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy oo yoyoy yoyo yoyo yoyoy oy yoyoy o</string>
+    <string name="person_email">Mradul@gmial.com</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

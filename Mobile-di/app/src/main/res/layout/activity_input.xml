@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:layout_margin="3dp"
+
+    android:background="#ff09dae8">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="25dp"
+        android:text="Please enter your details below"
+        android:id="@+id/fromTitle"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textStyle="bold" />
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="5dp"
+       android:layout_below="@+id/fromTitle"
+       android:orientation="horizontal"
+       android:id="@+id/nameLayout">
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textAppearance="?android:attr/textAppearanceMedium"
+           android:text="First Name :"
+           android:layout_alignBaseline="@+id/editFname"
+           android:id="@+id/textName"
+           android:textColor="#ff131313" />
+
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:inputType="textPersonName"
+           android:hint="Your First Name"
+           android:layout_marginLeft="5dp"
+           android:id="@+id/editFname"
+           android:textColor="#f9121212" />
+       </LinearLayout>
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+       android:layout_marginLeft="5dp"
+       android:layout_marginTop="10dp"
+       android:layout_below="@+id/nameLayout"
+        android:id="@+id/sirNameLayout">
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textAppearance="?android:attr/textAppearanceMedium"
+           android:text="Last Name :"
+           android:id="@+id/textSirName"
+           android:textColor="#ff121212" />
+
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:inputType="textPersonName"
+           android:hint="Your Last Name"
+           android:layout_marginLeft="5dp"
+           android:id="@+id/editLname"
+           android:textColor="#ff0e0e0e" />
+   </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:id="@+id/submit"
+        android:background="#ffbad5ff"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_below="@+id/sirNameLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp" />
+
+</RelativeLayout>

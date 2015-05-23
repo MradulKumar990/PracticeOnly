@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModulerFragmantation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="name">
+        <item>Mradul</item>
+        <item>Shekhar</item>
+        <item>Raj</item>
+        <item>Pankaj</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>"Mradul" iske to naam se hi apata chalta hai ki ye balak kitna sidha balak hai, are iske to naam me hi mida jhalakta hai. Mradul bole to bahut hi sidha , sachha , dosti dil se karne wala, jaruratmand logo ki help karne wala ek aam purush hai."Mradul" iske to naam se hi apata chalta hai ki ye balak kitna sidha balak hai, are iske to naam me hi mida jhalakta hai. Mradul bole to bahut hi sidha , sachha , dosti dil se karne wala, jaruratmand logo ki help karne wala ek aam purush hai.</item>
+        <item>"Shekhar" iske bare me kya bataye ab ye bhai sab to baap hai har us kutte ka jo kamina hai real life. bolne ko to bahut hai par samaj nahi aa raha kahan se suru karun, iske kutte ke baare me likhna suru kiya to shayad likhta hi rahunga or meri android sikhne ki khuwajish reh jayegi, so abhi nahi fir kabhi fursat me anpe chote bhaiya ki kahani.</item>
+        <item>"Raj" iske to naam se khaj ki gandi aadat ki yaad aati hai, ye wo khaj hai jise lag jati hai uska jina haram kar deti hai, ye wo bhaisahab hai jo apni daily ki kahani kisi ko suna na le to bhai sahab ko neend nahi aati, saala samne wale chahe sunna nahi chanta ho, ye fir bhi pakate hai. </item>
+        <item>"Pankaj" is bande ke anek prakar hai bole to chalta fita one of the oops Polymophism concet hai becous ye bhai sahab anek naam se prasidh ahi jaise ki "nattha", "johari","jaal fekne wala shikari","kalli gand","nathhulaal". ye bhai sahab ko kabhi inki age ki londiya nahi mile to bechara bachiyo pe li lin marke khush rehta hai. </item>
+    </string-array>
+
+</resources>

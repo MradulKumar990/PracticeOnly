@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hello</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="name">
+        <item>Mradul</item>
+        <item>Shekhar</item>
+        <item>Raj</item>
+        <item>Anuj</item>
+        <item>Pankaj</item>
+        <item>Pradipta</item>
+        <item>Arindom</item>
+        <item>Kaushik</item>
+        <item>Kavish</item>
+        <item>Amrit</item>
+        <item>Karna</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Description of Mradul</item>
+        <item>Description of Shekhar</item>
+        <item>Description of Raj</item>
+        <item>Description of Anuj</item>
+        <item>Description of Pankaj</item>
+        <item>Description of Pradipta</item>
+        <item>Description of Arindom</item>
+        <item>Description of Kaushik</item>
+        <item>Description of Kavish</item>
+        <item>Description of Amrit</item>
+        <item>Description of Karna</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,23 @@
+
+<android.support.v4.view.ViewPager
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.scrolltabs_fragmantion.scrolltabs.FragmentA"
+    android:id="@+id/pager"
+    android:background="#ff2a7e7e">
+
+    <android.support.v4.view.PagerTitleStrip
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff5c9782"
+        android:id="@+id/title"
+        android:padding="3dp"
+        >
+
+    </android.support.v4.view.PagerTitleStrip>
+
+
+
+</android.support.v4.view.ViewPager>

@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@android:color/holo_red_light"
+    tools:context=".MyActivity">
+
+    <TextView
+        android:text="Enter your Name here"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:textSize="25dp"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/textview1"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textview1"
+        android:id="@+id/edittext"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:layout_below="@id/edittext"
+        android:text="Internal Memory"
+        android:onClick="SaveInternalMemory"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button1"
+        android:id="@+id/button2"
+        android:text="External Memory"
+        android:onClick="SaveExternalMemory"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button2"
+        android:text="External Private"
+        android:onClick="SaveEnternalPrivate"
+        android:id="@+id/button3"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button3"
+        android:text="External Public"
+        android:onClick="SaveExternalPublic"
+        android:id="@+id/button4"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button4"
+        android:id="@+id/button5"
+        android:onClick="nextActivity"
+        android:text="Next"/>
+
+</RelativeLayout>

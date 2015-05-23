@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.scrolltabs_fragmantion.scrolltabs.FragmentA"
+    android:background="#ff30e2ff">
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="FRAGMENT AAAAAAA"
+        android:layout_margin="20dp"
+        android:gravity="top|center"
+        android:id="@+id/frag1"/>
+
+</LinearLayout>

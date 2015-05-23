@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NevigationTab</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="state">
+        <item>Uttat Pradesh</item>
+        <item>Madhya Pradesh</item>
+        <item>Bihar</item>
+        <item>Jharkhand</item>
+        <item>West Bangal</item>
+        <item>Assaam</item>
+        <item>Haryana</item>
+        <item>Anndhra Pradesh</item>
+        <item>Rajasthan</item>
+    </string-array>
+
+    <string-array name="college">
+        <item>NIT Allahabad</item>
+        <item>NIT Bhopal</item>
+        <item>NIT Patna</item>
+        <item>NIT Jamshedpur</item>
+        <item>NIT Durgapur</item>
+        <item>NIT Silchar</item>
+        <item>NIT Kurukshektra</item>
+        <item>NIT Warangal</item>
+        <item>NIT Jaipur</item>
+
+    </string-array>
+
+</resources>

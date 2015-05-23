@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PersonList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="name">
+        <item>Mradul</item>
+        <item>Karena</item>
+        <item>Shekhar</item>
+        <item>Pankaj</item>
+        <item>Raj</item>
+        <item>Anuj</item>
+        <item>Arindom</item>
+        <item>Pradipta</item>
+        <item>Kavish</item>
+        <item>kaushik</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>A cool dashing boy in the whole world throughout the generation</item>
+        <item>Only balck beauty in NITA</item>
+        <item>Baap of all DOGS</item>
+        <item>Only johari in our batch </item>
+        <item>Baklool No 1</item>
+        <item>bakchod No 1</item>
+        <item>Amool The thrusty relifer</item>
+        <item>Biggest monkey on whatsapp</item>
+        <item>Wasnao me ghira The Hungary Banta</item>
+        <item>Lund nichoru khachaak</item>
+    </string-array>
+
+    <string-array name="Email">
+        <item>mradul@gmail.com</item>
+        <item>karna@gmail.com</item>
+        <item>shekhar@gmail.com</item>
+        <item>pankaj@gmail.com</item>
+        <item>raj@gmail.com</item>
+        <item>anuj@gmail.com</item>
+        <item>Arimdom@gmail.com</item>
+        <item>padipta@gmail.com</item>
+        <item>kavish@gmail.com</item>
+        <item>kaushik@gmail.com</item>
+    </string-array>
+
+    <string-array name="phone">
+        <item>1111111111</item>
+        <item>2222222222</item>
+        <item>3333333333</item>
+        <item>4444444444</item>
+        <item>5555555555</item>
+        <item>6666666666</item>
+        <item>7777777777</item>
+        <item>8888888888</item>
+        <item>9999999999</item>
+        <item>1010101010</item>
+    </string-array>
+</resources>
